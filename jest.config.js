@@ -5,6 +5,7 @@ module.exports = {
     */
     '<rootDir>/node_modules/jest-enzyme/lib/index.js',
     '<rootDir>/config/setupTest.js',
+    'jest-canvas-mock'
   ],
   transform: {
     '^.+\\.js$': 'babel-jest',
